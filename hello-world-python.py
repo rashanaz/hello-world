@@ -1,5 +1,5 @@
 print("hell0")
-x=10
-y=20
-sum=x+y
+a=20
+b=30
+sum=a+b
 print(sum)
